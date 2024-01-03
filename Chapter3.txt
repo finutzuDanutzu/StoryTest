@@ -1,1 +1,7 @@
-Regina Angliei a fost o persoana respectabila si un lider desavarsit.
+Regina Angliei a fost o persoana respectabila si un lider de exceptie.
+
+Exista multipli pasi pentru a reusi sa faci un commit:
+    1. add adaugi totul pt a fi stage uit.
+    2. comit se creaza un comit si totul se salveaza cu un mesaj la timpul prezent.
+    3. se poate urca commit ul pe online daca nu  exista deja o conexiune intre online si offline.
+    
